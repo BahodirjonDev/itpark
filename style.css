@@ -79,7 +79,7 @@ body{
           display: block;
       }
       .nav{
-          display: none;
+          display: none !important;
       }
   }
   .menu{
